@@ -1,2 +1,2 @@
-# g4m3r3xp3rt.online
-for my own personal website
+# G4M3R3XP3RT's website!
+Welcome to my personal website! This is an portfolio of all my projects over the years !
