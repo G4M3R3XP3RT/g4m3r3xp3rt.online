@@ -1,0 +1,104 @@
+body {
+    background-image: url("../img/stripes.jpg");
+    background-size:contain;
+    font-family: 'Press Start 2P', cursive;
+}
+.navbar {
+    background-color: #4a145b;
+}
+.navbar-brand, .nav-link {
+    color: #a91ba2 !important;
+        text-shadow: 8px 5px 4px #000000;
+}
+.header {
+    background: url('../img/adofai_logo.jpg') no-repeat center center;
+    background-size:cover;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.header h1, .header p {
+    color: #ffffff;
+    text-shadow: 8px 5px 4px #000000;
+}
+.card {
+    background-color: #212121;
+    border: none;
+    text-shadow: 3px 2px 2px #000000;
+}
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+.footer {
+    background-color:  #4a145b;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+.section-heading {
+    color:#d900ff;
+    text-shadow: 8px 5px 4px #000000;
+}
+.text-muted {
+    text-shadow: 4px 2.5px 2px #000000;
+}
+
+
+
+.card-title-ntl{
+    color:#cc00ff;
+}
+.card-desc-ntl{
+    color:#22ff00;
+}
+.card-title-7teen{
+    color: #ffffff;
+}
+.card-desc-7teen{
+    color:#66ff87;
+}
+.card-title-sv{
+    color:#1900ff;
+}
+.card-desc-sv{
+    color:orange;
+}
+.card-title-stupid{
+    color:#dd5454;
+}
+.card-desc-stupid{
+    color:#61bdff;
+}
+.card-title-flies{
+    color:#ff00d0;
+}
+.card-desc-flies{
+    color:#664eff;
+}
+.card-title-kat{
+    color:#8bc7e3;
+}
+.card-desc-kat{
+    color:#ffeaea;
+}
+.card-title-act{
+    color: #ff0000;
+}
+.card-desc-act{
+    color:#ffeaea;
+}
+.card-title-murder{
+    color:#002197;
+}
+.card-desc-murder{
+    color:#ffeaea;
+}
+.card-title-pup{
+    color:#b00000;
+}
+.card-desc-pup{
+    color:#ff6161;
+}

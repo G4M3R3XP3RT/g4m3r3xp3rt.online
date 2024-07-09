@@ -1,0 +1,53 @@
+body {
+    background-image: url("../img/stripes.jpg");
+    background-size:contain;
+    font-family: 'Press Start 2P', cursive;
+}
+.navbar {
+    background-color: #4a145b;
+}
+.navbar-brand, .nav-link {
+    color: #a91ba2 !important;
+        text-shadow: 8px 5px 4px #000000;
+}
+.header {
+    background: url('../img/project.png') no-repeat center center;
+    background-size:cover;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.header h1, .header p {
+    color: #ffffff;
+    text-shadow: 8px 5px 4px #000000;
+}
+.card {
+    background-color: #212121;
+    border: none;
+    text-shadow: 3px 2px 2px #000000;
+}
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+.footer {
+    background-color:  #4a145b;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+.section-heading {
+    color:#d900ff;
+    text-shadow: 8px 5px 4px #000000;
+}
+.text-muted {
+    text-shadow: 4px 2.5px 2px #000000;
+}
+.card-title{
+    color:#d900ff;
+}
+.card-desc{
+    color:#f9deff;
+}
